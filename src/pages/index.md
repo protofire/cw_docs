@@ -39,7 +39,7 @@ With the success of the initial phase, the team applied for a [second phase](htt
 
 Today, a year after their journey began, the team at [Protofire](https://protofire.io) has successfully realized their vision. The Polkadot Contract Wizard Tool is now deployed and operational, thanks to the unwavering support of the Web3 Foundation Grants Program.
 
-## Conclusion
+## Polkadot Contract Wizard: A Journey 'To Be Continued
 
 The story of the Polkadot Contract Wizard Tool is one of passion, perseverance, and the desire to make a difference. From its inception at a local event in Buenos Aires to its triumphant success at the Polkadot Hackathon LATAM and its eventual realization with the support of the Web3 Foundation, the tool stands as a beacon for all those who aspire to innovate and contribute to the world of web3.
 
