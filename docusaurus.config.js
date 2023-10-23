@@ -66,7 +66,7 @@ const config = {
       navbar: {
         title: 'Contract Wizard',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Wizard Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -77,11 +77,7 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/protofire/polkadot-contract-wizard',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {href: 'https://contractwizard.xyz', label: 'Open dApp', position: 'right'},
         ],
       },
       footer: {
