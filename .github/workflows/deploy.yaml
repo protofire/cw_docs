@@ -1,5 +1,4 @@
-name: "Deploy to GitHub Pages"
-description: "Builds and deploys Docusaurus site to GitHub Pages"
+name: Deploy to GitHub Pages
 
 on:
   push:
