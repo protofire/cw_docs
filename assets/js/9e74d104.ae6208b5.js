@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcw_docs=self.webpackChunkcw_docs||[]).push([[6366],{524:s=>{s.exports=JSON.parse('{"label":"wasm","permalink":"/cw_docs/blog/tags/wasm","allTagsPath":"/cw_docs/blog/tags","count":4}')}}]);

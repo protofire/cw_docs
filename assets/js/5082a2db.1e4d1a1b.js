@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcw_docs=self.webpackChunkcw_docs||[]).push([[7177],{8207:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/polkadot","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

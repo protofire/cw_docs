@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcw_docs=self.webpackChunkcw_docs||[]).push([[2545],{5888:s=>{s.exports=JSON.parse('{"label":"substrate","permalink":"/blog/tags/substrate","allTagsPath":"/blog/tags","count":2}')}}]);
