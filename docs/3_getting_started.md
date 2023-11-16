@@ -24,6 +24,8 @@ Setting Up Your Polkadot-Compatible Wallet:
 
 ### Accessing the Polkadot Contract Wizard:
 
+![Contract Wizard Img](./assets/landing.png)
+
 **Navigate to PCW**: [Enter Polkadot Contract Wizard](https://www.contractwizard.xyz/)
 
 **(Optional) Bookmark for Easy Access**: For frequent use, consider bookmarking the PCW page. This way, you can quickly return to it whenever needed.
@@ -35,5 +37,7 @@ Setting Up Your Polkadot-Compatible Wallet:
 To deploy a contract, you'll need native tokens depending on the connected network:
 
 Rococo: Requires ROC tokens. You can obtain ROC for testing purposes from the [Rococo faucet](https://use.ink/faucet).
+
+![Faucet Img](./assets/faucet.png)
 
 Shibuya: Requires SBY tokens. Acquire SBY for testing from the Shibuya faucet. To access the faucet visit [the portal](https://portal.astar.network/assets), and click on the Faucet button. You can find more information in [the Astar documentation page](https://docs.astar.network/docs/build/environment/faucet/)

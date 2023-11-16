@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Additional Resources:
 
-PCW Tutorials: Dive deeper into specific functionalities with detailed tutorials available on youtube. (TODO CREATE YOUTUBE CHANNEL AND PUT LINKS)
+PCW Tutorials:  A deeper dive into specific functionalities with be detailed in youtube tutorials we are working on. We will anonunce it here as soon as it's available, stay tunned.
 
 Blockchain Basics: New to blockchain? Explore introductory resources and courses to build a strong foundation in blockchain concepts. https://github.com/rtomas/polkadot-learning-path
 
